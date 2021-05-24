@@ -1,5 +1,16 @@
 # Distributed-Intelligence-Model-for-IoT-Applications
-Distributed Intelligence Model for Internet ofThings Applications
+
+This  work  proposesa  model  that  provides  an  IoT  gateway  with  the  intelligence  
+needed  to  extract  the knowledge from sensors’ data in order to make the decision locally without 
+needing to send all raw data to the cloud over the Internet.  
+When the gateway is unable toprocess a task locally, the data and task are offloaded to the cloud.
+
+
+The model was demonstrated by building smart home distribued intelligence application. The Model architecture is presented below: 
+![GitHub Logo](/Project2.jpg)
+
+
+
 
 ![GitHub Logo](/DIM_Presentation/Slide1.PNG)
 ![GitHub Logo](/DIM_Presentation/Slide2.PNG)
