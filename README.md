@@ -7,9 +7,9 @@ When the gateway is unable toprocess a task locally, the data and task are offlo
 
 
 The model was demonstrated by building smart home distribued intelligence application. The Model architecture is presented below: 
-![GitHub Logo](/Project2.jpg =250x250)
 
 
+<img src="/Project2.jpg" width="200" height="400" />
 
 
 ![GitHub Logo](/DIM_Presentation/Slide1.PNG)
