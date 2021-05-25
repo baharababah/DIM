@@ -30,12 +30,12 @@ The Model architecture is presented below:
 * IoT gateway: Raspberry Pi,  zigbee usb.
 * End devices: smart plug, smart bulb, motion sensor, temperature sensor, and two mobile phones.
 
-## Collect the data from sensores:
+## Collect the data from sensors:
 <p align="center">
   <img src="/CollectDataset.png" width="600" height="300" >
 </p>
 
-* The ETL (Extract, Transform, Load). 
+* ETL (Extract, Transform, Load). 
 
 
 ## Cloud platforms:
@@ -57,7 +57,7 @@ The Model architecture is presented below:
   
 
 # The application now knows when to turn the light on/off:
-* Suppose the collected dataset illusrats that you usually go to sleep at 9:00PM on weekdays and 1:00AM on weekends.
+* Suppose the collected dataset illusrats that you usually go to the bed at 9:00PM on weekdays and 1:00AM on weekends.
   * The appliaction will turn the light off 9:00PM on weekdays. 
   * The appliaction will turn the light off 1:00AM on weekends. 
 
