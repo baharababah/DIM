@@ -71,9 +71,6 @@ The Model architecture is presented below:
 ![GitHub Logo](/DIM_Presentation/Slide30.PNG)
 ![GitHub Logo](/DIM_Presentation/Slide31.PNG)
 ![GitHub Logo](/DIM_Presentation/Slide32.PNG)
-
-
-
 ![GitHub Logo](/DIM_Presentation/Slide33.PNG)
 ![GitHub Logo](/DIM_Presentation/Slide34.PNG)
 ![GitHub Logo](/DIM_Presentation/Slide35.PNG)
@@ -95,16 +92,3 @@ The Model architecture is presented below:
 ![GitHub Logo](/DIM_Presentation/Slide51.PNG)
 ![GitHub Logo](/DIM_Presentation/Slide52.PNG)
 ![GitHub Logo](/DIM_Presentation/Slide53.PNG)
-![GitHub Logo](/DIM_Presentation/Slide54.PNG)
-![GitHub Logo](/DIM_Presentation/Slide55.PNG)
-![GitHub Logo](/DIM_Presentation/Slide56.PNG)
-![GitHub Logo](/DIM_Presentation/Slide57.PNG)
-![GitHub Logo](/DIM_Presentation/Slide58.PNG)
-![GitHub Logo](/DIM_Presentation/Slide59.PNG)
-![GitHub Logo](/DIM_Presentation/Slide60.PNG)
-![GitHub Logo](/DIM_Presentation/Slide61.PNG)
-![GitHub Logo](/DIM_Presentation/Slide62.PNG)
-![GitHub Logo](/DIM_Presentation/Slide63.PNG)
-![GitHub Logo](/DIM_Presentation/Slide64.PNG)
-![GitHub Logo](/DIM_Presentation/Slide65.PNG)
-![GitHub Logo](/DIM_Presentation/Slide66.PNG)
