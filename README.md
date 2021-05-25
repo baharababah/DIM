@@ -1,4 +1,4 @@
-# Distributed-Intelligence-Model-for-IoT-Applications
+# Distributed Intelligence Model for IoT Applications
 
 <p style='text-align: justify;'> 
 
