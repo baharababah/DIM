@@ -24,7 +24,7 @@ The Model architecture is presented below:
 
 # Connect the devices using Node-Red
 <p align="center">
-  <img src="/project.jpg" width="500" height="500"  >
+  <img src="/project.jpg" width="250" height="250"  >
 </p>
 
 * IoT gateway: Raspberry Pi,  zigbee usb.
@@ -32,7 +32,7 @@ The Model architecture is presented below:
 
 ## Collect the data from sensores:
 <p align="center">
-  <img src="/CollectDataset.png" width="600" height="200" >
+  <img src="/CollectDataset.png" width="600" height="300" >
 </p>
 
 * The ETL (Extract, Transform, Load). 
