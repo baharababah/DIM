@@ -32,7 +32,7 @@ The Model architecture is presented below:
 
 ## Collect the data from sensores:
 <p align="center">
-  <img src="/CollectDataset.png" width="150" height="350" class="center" >
+  <img src="/CollectDataset.png" width="100" height="350" class="center" >
 </p>
 
 * The ETL (Extract, Transform, Load). 
