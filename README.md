@@ -1,19 +1,42 @@
 # Distributed-Intelligence-Model-for-IoT-Applications
 
+<p style='text-align: justify;'> 
+
 This  work  proposesa  model  that  provides  an  IoT  gateway  with  the  intelligence  
 needed  to  extract  the knowledge from sensors’ data in order to make the decision locally without 
 needing to send all raw data to the cloud over the Internet.  
-When the gateway is unable toprocess a task locally, the data and task are offloaded to the cloud.
+When the gateway is unable toprocess a task locally, the data and task are offloaded to the cloud. </p>
 
 
-The model was demonstrated by building smart home distribued intelligence application. The Model architecture is presented below: 
+## Model Demonstration
+The model was demonstrated by building smart home distributed intelligence application. 
+The Model architecture is presented below:
 
 <p align="center">
   <img src="/Project2.jpg" width="200" height="250" class="center" >
 </p>
 
 
+## Hardware
+* IoT gateway: Raspberry Pi,  zigbee usb.
+* End devices: smart plug, smart bulb, motion sensor, temperature sensor, and two mobile phones.
 
+## Cloud platforms:
+* IBM cloud.
+
+## Programming
+* Python ( NumPy, Pandas, Keras, Matplotlib)
+* Node-Red
+* JSON
+* Java Script
+
+## Neural Networks
+* MLPNN
+*LSTM
+*GRUs
+
+
+## Explaining the Model in details:
 
 
 ![GitHub Logo](/DIM_Presentation/Slide1.PNG)
