@@ -24,7 +24,7 @@ The Model architecture is presented below:
 
 # Connect the devices using Node-Red
 <p align="center">
-  <img src="/Project.jpg" width="500" height="500"  >
+  <img src="/project.jpg" width="500" height="500"  >
 </p>
 
 * IoT gateway: Raspberry Pi,  zigbee usb.
