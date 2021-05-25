@@ -41,7 +41,7 @@ The Model architecture is presented below:
 ## Cloud platforms:
 * IBM cloud.
 
-## Build Neural Networks algorithm that able to controll the home appliences : 
+## Build Neural Networks algorithm that able to controll home appliences : 
 * Programming: 
  * Python ( NumPy, Pandas, Keras, Matplotlib)
  * Neural Networks (MLPNN, LSTM, and GRUs)
