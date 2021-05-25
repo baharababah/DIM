@@ -10,14 +10,6 @@ This work proposes a model that provides an IoT gateway with  the  intelligence 
 The model was demonstrated by building smart home distributed intelligence application. 
 The Model architecture is presented below:
 
-<p align="center">
-  <img src="/Project2.jpg" width="200" height="250" class="center" >
-</p>
-
-<p align="center">
-  <img src="/Project.jpg" width="200" height="250" class="center" >
-</p>
-
 ## The features of the smart home distributed intelligence application:
 * Controll home appliences using machine learning.
 * Local data processing of the most real time data for fast decision and action making.
@@ -26,23 +18,48 @@ The Model architecture is presented below:
 * Enable IoT network to be more resourceful in terms of energy and communication bandwidth.
 
 
-## Hardware
+<p align="center">
+  <img src="/Project2.jpg" width="200" height="250" class="center" >
+</p>
+
+# Connect the devices using Node-Red
+<p align="center">
+  <img src="/Project.jpg" width="200" height="250" class="center" >
+</p>
+
 * IoT gateway: Raspberry Pi,  zigbee usb.
 * End devices: smart plug, smart bulb, motion sensor, temperature sensor, and two mobile phones.
+
+## Collect the data from sensores:
+<p align="center">
+  <img src="/CollectDataset.png" width="200" height="250" class="center" >
+</p>
+
+* The ETL (Extract, Transform, Load). 
+
 
 ## Cloud platforms:
 * IBM cloud.
 
-## Programming
-* Python ( NumPy, Pandas, Keras, Matplotlib)
-* Node-Red
-* JSON
-* Java Script
+## Build Neural Networks algorithm that able to controll the home appliences : 
+* Programming: 
+ * Python ( NumPy, Pandas, Keras, Matplotlib)
+ * Neural Networks (MLPNN, LSTM, and GRUs)
+ * Node-Red
+ * JSON
+ * Java Script
+ * train the choosen Neural Networks algorithm on the collected data. 
+ * save the model in .h5 file in order to use it for controlling home appliences.
 
-## Neural Networks
-* MLPNN
-*LSTM
-*GRUs
+# Build flow-based tool using Node-Red that connects end devices, gateway, and cloud.
+* Include the trained Neural Networks algorithm (.h5) in the Node-Red tool.
+* When any event happen at the house, the system will response to the event based on Neural Networks trained model that is implemented on Node-Red.
+ * The application knows when to turn the light on/off 
+
+# For controlling the light:
+* Suppose the collected dataset illusrats that you usually go to sleep at 9:00PM on weekdays and 1:00AM on weekends.
+ * The appliaction will turn the light off 9:00PM on weekdays. 
+ * The appliaction will turn the light off 1:00AM on weekends. 
 
 
 ## For more details, open [DIM](https://mspace.lib.umanitoba.ca/bitstream/handle/1993/35511/Rababah_Baha.pdf?sequence=1)
