@@ -23,7 +23,7 @@ The Model architecture is presented below:
 </p>
 
 # Connect the devices using Node-Red
-<p align="center">
+<p >
   <img src="/Project.jpg" width="200" height="250"  >
 </p>
 
@@ -31,7 +31,7 @@ The Model architecture is presented below:
 * End devices: smart plug, smart bulb, motion sensor, temperature sensor, and two mobile phones.
 
 ## Collect the data from sensores:
-<p align="center">
+<p >
   <img src="/CollectDataset.png" width="100" height="350" >
 </p>
 
