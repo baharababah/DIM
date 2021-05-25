@@ -32,7 +32,7 @@ The Model architecture is presented below:
 
 ## Collect the data from sensores:
 <p align="center">
-  <img src="/CollectDataset.png" width="200" height="250" class="center" >
+  <img src="/CollectDataset.png" width="150" height="350" class="center" >
 </p>
 
 * The ETL (Extract, Transform, Load). 
@@ -54,12 +54,12 @@ The Model architecture is presented below:
 # Build flow-based tool using Node-Red that connects end devices, gateway, and cloud.
 * Include the trained Neural Networks algorithm (.h5) in the Node-Red tool.
 * When any event happen at the house, the system will response to the event based on Neural Networks trained model that is implemented on Node-Red.
- * The application knows when to turn the light on/off 
+  
 
-# For controlling the light:
+# The application now knows when to turn the light on/off:
 * Suppose the collected dataset illusrats that you usually go to sleep at 9:00PM on weekdays and 1:00AM on weekends.
- * The appliaction will turn the light off 9:00PM on weekdays. 
- * The appliaction will turn the light off 1:00AM on weekends. 
+  * The appliaction will turn the light off 9:00PM on weekdays. 
+  * The appliaction will turn the light off 1:00AM on weekends. 
 
 
 ## For more details, open [DIM](https://mspace.lib.umanitoba.ca/bitstream/handle/1993/35511/Rababah_Baha.pdf?sequence=1)
